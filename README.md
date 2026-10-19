@@ -156,6 +156,10 @@ Able to connect LLM with the real world.
 - [ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
 
 
+## CI
+
+A [GitHub Actions workflow](.github/workflows/ci.yml) runs on pull requests and pushes to `main`. It checks Markdown files with [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) to ensure consistent formatting.
+
 ## Reference Repo
 
 - [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...

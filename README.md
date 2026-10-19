@@ -46,12 +46,11 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 
 Open-source Large Language Model (LLM) driven Multi-Agent that can automatically solve various tasks.
 
-![](./images/multi-agent.png)
+![Multi-Agent](./images/multi-agent.png)
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. ![GitHub Repo stars](https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social)
-
 
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 
@@ -104,7 +103,6 @@ Quickly build and customize agents.
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
 - [LLMling-Agent](https://github.com/phil65/llmling-agent) - Multi-agent workflows and complex Agent interactions, both via YAML manifest and programmatic usage. Pydantic-AI and LiteLLM backends with human-in-the-loop integration ![GitHub Repo stars](https://img.shields.io/github/stars/phil65/llmling-agent?style=social)
 
-
 ## Benchmark/Evaluator
 
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
@@ -115,14 +113,13 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
-- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
-
+- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
 
 ## Platforms/API
 
 Able to connect LLM with the real world.
 
-![](./images/system_design.png)
+![System Design](./images/system_design.png)
 
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - "May the Force be with LLM and Domain Experts." ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)
@@ -154,7 +151,6 @@ Able to connect LLM with the real world.
 - [从第一性原理看大模型Agent技术](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
 - [基于大语言模型的AI Agents](https://www.breezedeus.com/article/ai-agent-part3)
 - [ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
-
 
 ## CI
 

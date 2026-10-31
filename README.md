@@ -46,12 +46,11 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 
 Open-source Large Language Model (LLM) driven Multi-Agent that can automatically solve various tasks.
 
-![](./images/multi-agent.png)
+![Multi-Agent](./images/multi-agent.png)
 
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo ![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social)
 - [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. ![GitHub Repo stars](https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social)
-
 
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. ![GitHub Repo stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social)
 
@@ -71,6 +70,7 @@ Exploring endless possibilities with open-source agent social simulation.
 - [Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥 ![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/Camel-AutoGPT?style=social)
 
 ### Advanced Components
+
 - [mem0](https://github.com/mem0ai/mem0) - Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications. ![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social)
 - [composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks ![GitHub Repo stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
@@ -82,7 +82,7 @@ Quickly build and customize agents.
 ![https://arxiv.org/abs/2308.08155](images/autogen_agentchat.png)
 
 - [langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)
-    - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
+  - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain?style=social)
 - [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)
 - [crewaAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewAI?style=social)
 - [agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents ![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/agents?style=social)
@@ -104,7 +104,6 @@ Quickly build and customize agents.
 - [Mastra](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. ![GitHub Repo stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=social)
 - [LLMling-Agent](https://github.com/phil65/llmling-agent) - Multi-agent workflows and complex Agent interactions, both via YAML manifest and programmatic usage. Pydantic-AI and LiteLLM backends with human-in-the-loop integration ![GitHub Repo stars](https://img.shields.io/github/stars/phil65/llmling-agent?style=social)
 
-
 ## Benchmark/Evaluator
 
 Benchmarks to evaluate LLM-as-Agent across a variety of environments.
@@ -115,14 +114,13 @@ Benchmarks to evaluate LLM-as-Agent across a variety of environments.
 - [ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning. ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)
 - [LLM-Agent-Benchmark-List](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) - A benchmark list for evaluation of large language models.
 - [agbenchmark](https://pypi.org/project/agbenchmark/) - by AutoGPT
-- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
-
+- [open-operator-evals](https://github.com/nottelabs/open-operator-evals) — An opensource and reproducible set of evals on web browser using agents
 
 ## Platforms/API
 
 Able to connect LLM with the real world.
 
-![](./images/system_design.png)
+![System Design](./images/system_design.png)
 
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - An Open Platform for Language Agents in the Wild ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - "May the Force be with LLM and Domain Experts." ![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)
@@ -136,9 +134,9 @@ Able to connect LLM with the real world.
 
 ### Survey
 
-- [A Survey on Large Language Model based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey) <a href='https://arxiv.org/abs/2308.11432'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
-- [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List) <a href='https://arxiv.org/abs/2309.07864'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
-- [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) <a href='https://arxiv.org/abs/2505.00753'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
+- [A Survey on Large Language Model based Autonomous Agents](https://github.com/Paitesanshi/LLM-Agent-Survey) [![Paper-PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2308.11432)
+- [The Rise and Potential of Large Language Model Based Agents: A Survey](https://github.com/WooooDyy/LLM-Agent-Paper-List) [![Paper-PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2309.07864)
+- [LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers) [![Paper-PDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2505.00753)
 
 ### Paper-List Repo
 
@@ -155,6 +153,9 @@ Able to connect LLM with the real world.
 - [基于大语言模型的AI Agents](https://www.breezedeus.com/article/ai-agent-part3)
 - [ICLR'24 上大型语言模型代理的最新研究进展 | 代理评估重点](https://medium.com/@aminerscholar_39923/latest-research-advancements-on-large-language-model-agents-at-iclr24-agent-evaluation-focus-aed420421365)
 
+## CI
+
+A [GitHub Actions workflow](.github/workflows/ci.yml) runs on pull requests and pushes to `main`. It checks Markdown files with [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) to ensure consistent formatting.
 
 ## Reference Repo
 
